@@ -1,4 +1,5 @@
 local_settings.py
 *.pyc
 venv
+.DS_Store
 .Python
